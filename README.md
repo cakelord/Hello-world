@@ -1,4 +1,4 @@
-# Ladder
+# Build Scientific Ladder for Windows
 * Step1:
 How to request a vps.
 * Step2:
