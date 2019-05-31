@@ -1,4 +1,4 @@
-# Build Scientific Ladder for Windows
+# Shadowsocks and Vps for Windows
 * Step1:
 How to request a vps.
 * Step2:
