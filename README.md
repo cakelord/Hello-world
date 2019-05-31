@@ -8,4 +8,4 @@ Shadowsocks.exe can do us a favor.
 * Step4:
 Things should be paid attention to.
 * Step5:
-Supplement.
+Reference.
